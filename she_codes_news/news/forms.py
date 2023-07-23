@@ -14,5 +14,5 @@ class StoryForm(ModelForm):
                     'placeholder' : 'select a date',
                     'type' : 'date'
                 }
-            ),
+            )
         }
